@@ -1,5 +1,5 @@
 
-<H3>EX. NO.10</H3>
+<H3>EX. NO.8</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Name : Navinkumar V</H3>
 
